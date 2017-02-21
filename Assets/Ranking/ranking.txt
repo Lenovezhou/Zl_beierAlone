@@ -1,0 +1,1 @@
+[{"Name":"Magic","Score":430},{"Name":"Jack","Score":360},{"Name":"John","Score":340},{"Name":"Jane","Score":340},{"Name":"Angela","Score":75},{"Name":"Rose","Score":60},{"Name":"StanSen","Score":0}]

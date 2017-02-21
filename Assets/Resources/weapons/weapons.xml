@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<program>
+    <weapon_list>
+      <weapon Name="weapon2"
+              Attack="10"
+              LaunchSpeed="0.2"
+              HP="300"
+              LifeTime ="6"
+      />
+      <weapon Name="weapon1"
+              Attack="60"
+              LaunchSpeed="0.1"
+              HP="0"
+              LifeTime ="5"
+      />
+      <weapon Name="weapon3"
+              Attack="3000"
+              LaunchSpeed="2"
+              HP="300"
+              LifeTime ="10"
+      />
+      <weapon Name="weapon4"
+              Attack="200"
+              LaunchSpeed="0.2"
+              HP="5"
+              LifeTime ="10"
+      />
+      <weapon Name="weapon5"
+              Attack="60"
+              LaunchSpeed="0.1"
+              HP="0"
+              LifeTime ="5"
+      />
+      <weapon Name="HP"
+              Attack="0"
+              LaunchSpeed="0"
+              HP="1200"
+              LifeTime ="50"
+      />
+    </weapon_list>
+</program>
